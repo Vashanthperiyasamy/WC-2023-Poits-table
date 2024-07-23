@@ -1,0 +1,47 @@
+h1{
+	text-align: center;
+	color: floralwhite;
+	backdrop-filter: blur(4px);
+	
+}
+h2{
+	text-align: center;
+	color: black;
+	backdrop-filter: blur(4px);
+
+
+}
+tr,table{
+	/*border-collapse: collapse;*/
+	width: 100%;
+	height: 180%;
+	color: white;
+
+}
+td{
+	text-align: center;
+}
+.left{
+	text-align: center;
+}
+th,td{
+	margin-left: 25px;
+}
+body{
+	background-image: url("https://i0.wp.com/images.moneycontrol.com/static-mcnews/2023/09/Collage-Maker-04-Sep-2023-03-08-PM-3469.jpg?strip=all");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+table{
+	backdrop-filter: blur(2px);
+	color: black;
+	/*background-collapse:collapse;*/
+}
+
+td{
+
+	padding-top: 50px;
+}
+
+
